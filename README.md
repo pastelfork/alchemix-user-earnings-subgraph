@@ -2,7 +2,7 @@
 
 ## Description
 
-This subgraph is an indexing tool for tracking user earnings across Alchemix protocol deployments. Built using the [Ponder.sh](https://ponder.sh) library, it provides comprehensive indexing of user interactions with AlchemistV2 contracts across multiple networks.
+This subgraph is an indexing tool for tracking user earnings across Alchemix protocol deployments. Built using the [Ponder.sh](https://ponder.sh) library, it indexes events emitted from the AlchemistV2 contracts across multiple networks.
 
 ## Key Features
 
@@ -26,7 +26,7 @@ This subgraph is an indexing tool for tracking user earnings across Alchemix pro
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-org/alchemix-user-earnings-subgraph.git
+git clone https://github.com/pastelfork/alchemix-user-earnings-subgraph.git
 cd alchemix-user-earnings-subgraph
 ```
 
